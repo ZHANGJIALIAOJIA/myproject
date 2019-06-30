@@ -1,0 +1,10 @@
+﻿a20171027pyxym/.idea/
+a20171027pyxym/ossweb-img/web/
+.idea/
+a20180402yzzc/ossweb-img/_web/
+*.psd
+a20180622mrcq/ossweb-img/_web/
+node_modules
+package.json
+package-lock.json
+postcss-config.js
